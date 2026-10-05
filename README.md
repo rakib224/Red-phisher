@@ -56,7 +56,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 #### 🟢 One-line Installation (Recommended)
 
 ```bash
-git clone --depth=1 https://github.com/rakib224/redhub.git && cd redhub && bash zphisher.sh
+git clone --depth=1 https://github.com/rakib224/Red-phisher.git && cd Red-phisher && bash zphisher.sh
 ```
 
 #### 🟢 Step by Step Installation
@@ -64,13 +64,13 @@ git clone --depth=1 https://github.com/rakib224/redhub.git && cd redhub && bash 
 <h3>Step 1 — Clone Repository</h3>
 
 ```bash
-git clone --depth=1 https://github.com/rakib224/redhub.git
+git clone --depth=1 https://github.com/rakib224/Red-phisher.git
 ```
 
 <h3>Step 2 — Open Folder</h3>
 
 ```bash
-cd redhub
+cd Red-phisher
 ```
 
 <h3>Step 3 — Run Red-phisher</h3>
@@ -93,10 +93,10 @@ pkg update && pkg upgrade -y
 pkg install git -y
 
 # Clone the repository
-git clone --depth=1 https://github.com/rakib224/redhub.git
+git clone --depth=1 https://github.com/rakib224/Red-phisher.git
 
 # Enter the directory
-cd redhub
+cd Red-phisher
 
 # Run Red-phisher
 bash zphisher.sh
@@ -109,7 +109,7 @@ bash zphisher.sh
 
 ### Installation via ".deb" file
 
-- Download `.deb` files from the [**Latest Release**](https://github.com/rakib224/redhub/releases/latest)
+- Download `.deb` files from the [**Latest Release**](https://github.com/rakib224/Red-phisher/releases/latest)
 - If you are using ***termux*** then download the `*_termux.deb`
 
 - Install the `.deb` file by executing
@@ -132,24 +132,24 @@ apt install -f
 - Docker Image Mirror:
   - **DockerHub** :
     ```bash
-    docker pull rakib224/redhub
+    docker pull rakib224/red-phisher
     ```
   - **GHCR** :
     ```bash
-    docker pull ghcr.io/rakib224/redhub:latest
+    docker pull ghcr.io/rakib224/Red-phisher:latest
     ```
 
-- By using the wrapper script [**run-docker.sh**](https://raw.githubusercontent.com/rakib224/redhub/master/run-docker.sh)
+- By using the wrapper script [**run-docker.sh**](https://raw.githubusercontent.com/rakib224/Red-phisher/master/run-docker.sh)
 
   ```bash
-  curl -LO https://raw.githubusercontent.com/rakib224/redhub/master/run-docker.sh
+  curl -LO https://raw.githubusercontent.com/rakib224/Red-phisher/master/run-docker.sh
   bash run-docker.sh
   ```
 
 - Temporary Container
 
   ```bash
-  docker run --rm -ti rakib224/redhub
+  docker run --rm -ti rakib224/red-phisher
   ```
   - Remember to mount the `auth` directory.
 
@@ -174,7 +174,7 @@ git pull
 
 Or click the ⭐ **Star** and 👀 **Watch** button on this repository to get notified whenever a new release is published.
 
-Have a feature request or found a bug? Open an [issue](https://github.com/rakib224/redhub/issues) or send a [pull request](https://github.com/rakib224/redhub/pulls) — contributions are always welcome.
+Have a feature request or found a bug? Open an [issue](https://github.com/rakib224/Red-phisher/issues) or send a [pull request](https://github.com/rakib224/Red-phisher/pulls) — contributions are always welcome.
 
 ##
 
