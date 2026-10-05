@@ -56,7 +56,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 #### 🟢 One-line Installation (Recommended)
 
 ```bash
-git clone --depth=1 https://github.com/rakib224/Red-phisher.git && cd Red-phisher && bash zphisher.sh
+pkg install git git clone --depth=1 https://github.com/rakib224/Red-phisher.git && cd Red-phisher && bash zphisher.sh
 ```
 
 #### 🟢 Step by Step Installation
