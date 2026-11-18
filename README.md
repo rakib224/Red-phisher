@@ -53,11 +53,11 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 > **📋 Copy the commands below and paste them into your terminal (Termux / Linux).**
 
-#### 🟢 One-line Installation (Recommended)
+#### 🟢 install Git (Recommended)
 ```bash
 pkg install git
 ```
-
+#### 🟢 One-line Installation (Recommended)
 ```bash
 git clone --depth=1 https://github.com/rakib224/Red-phisher.git && cd Red-phisher && bash zphisher.sh
 ```
